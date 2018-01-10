@@ -1,0 +1,19 @@
+{
+  "name": "udacity-project-feed-reader-testing",
+  "version": "1.0.0",
+  "description": "This project is part of Udacity Front-End Development Nanodegree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Yang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jh1293/udacity-project-feed-reader-testing.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.2",
+    "gulp": "^3.9.1"
+  }
+}
